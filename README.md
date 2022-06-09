@@ -7,7 +7,7 @@ I'm Andrew, Front-end developer.
 
 - Follow me on [Linkedin](https://www.linkedin.com/in/qmorozov/).
 - Follow me on [Twitter](https://twitter.com/Andrew__Morozov).
-- Codewars [Linkedin](https://www.codewars.com/users/qamorozov)
+- Codewars [Codewars](https://www.codewars.com/users/qamorozov)
 
 ### Languages and Tools:
 
