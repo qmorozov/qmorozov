@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Andrew ![](https://komarev.com/ghpvc/?username=qmorozov&style=flat-square)
+### Hi there 👋, I'm Andrew
 
 <hr>
 
@@ -36,3 +36,5 @@ I'm Andrew, Front-end developer.
     <br />
     <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=qmorozov&hide=contribs,issues&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </details>
+
+![](https://komarev.com/ghpvc/?username=qmorozov&style=flat-square)
